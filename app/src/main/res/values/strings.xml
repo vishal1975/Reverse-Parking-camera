@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReverseCamera</string>
+    <string name="button_txt">flip</string>
+</resources>
